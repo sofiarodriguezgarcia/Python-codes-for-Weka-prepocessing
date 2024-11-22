@@ -1,7 +1,6 @@
-#!/usr/bin/env python
 # coding: utf-8
 
-# In[8]:
+
 
 
 import pandas as pd  
@@ -11,7 +10,6 @@ data.pop('id')
 data.to_csv("C:/Users/Usuario/test_labeled_bien.csv", index=False)
 
 
-# In[ ]:
 
 
 
